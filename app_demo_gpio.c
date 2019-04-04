@@ -1,4 +1,4 @@
 void main()
 {
-	printf("1");
+	printf("this is master");
 }
